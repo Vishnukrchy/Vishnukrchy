@@ -10,7 +10,7 @@ I'm a passionate Java Full-Stack Developer based in Noida, UP. I completed my B.
 
 ## How to Reach Me
 - 📫 Email: vishnukrkamat@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile)
+- 💼 LinkedIn: [https://www.linkedin.com/in/vishnu-choudhary-2235971a7/)
 - 🐙 GitHub: [@Vishnukrchy](https://github.com/Vishnukrchy)
 
 ## Pronouns
