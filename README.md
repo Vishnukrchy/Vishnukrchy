@@ -1,47 +1,56 @@
 # Hi there, I'm Vishnu Kumar Kamat 👋
 
 ## About Me
-I'm a passionate Java Full-Stack Developer based in Noida, UP. I completed my B.Tech from Supaul College Of Engineering in 2023 with a CGPA of 8.14. I have a strong foundation in Core Java, JDBC, Servlet+JSP, Hibernate+JPA, and Spring. I'm also proficient in web technologies like HTML, CSS, JavaScript, and have a basic understanding of React Js and Tailwind CSS.
+I'm a dedicated Full-Stack Java Developer based in Noida, UP, with hands-on experience in building scalable and secure web applications. I completed my B.Tech from Supaul College Of Engineering in 2023 with a CGPA of 8.14. I specialize in backend development with a strong grasp of technologies such as Spring Boot, jOOQ, and Hibernate, along with experience in front-end technologies.
 
-## My Interests
-- 👀 I’m interested in developing scalable and efficient web applications.
-- 🌱 I’m currently learning advanced Spring Boot and exploring microservices architecture.
-- 💞️ I’m looking to collaborate on open-source Java projects and innovative web applications.
+## 🚀 A Few Quick Facts
+- 🔭 I’m currently working on **Spring Boot, JSP, jOOQ, JQuery** technologies at **BlueBerry E-Services Private Limited**.
+- 🧐 I’m enhancing my knowledge of **Spring Boot REST API Development**, **React Native**, and **DevOps** with AWS.
+- 💬 Ping me about **Java**, **Spring Boot**, **React Native**, or **cloud technologies** like AWS.
+- 🌱 I’m always exploring new frameworks and technologies to stay up-to-date in the tech world.
 
-## How to Reach Me
-- 📫 Email: vishnukrkamat@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/vishnu-choudhary-2235971a7/)
-- 🐙 GitHub: [@Vishnukrchy](https://github.com/Vishnukrchy)
+## 💼 Work Experience
+### **BlueBerry E-Services Private Limited**  
+**Software Engineer** • _(July 2024 - Present)_  
+- Developed and maintained backend functionality for the ShramIn Jobs platform.
+- Optimized complex queries using jOOQ, improving API performance.
+- Implemented verification functionalities (email and phone) and push notifications via Firebase.
+- Enhanced API response time by 70% through query optimization.
 
-## Pronouns
-- 😄 He/Him
+### **Qspider Noida**  
+**Java Full-Stack Trainee** • _(Oct 2023 - June 2024)_  
+- Gained practical knowledge in full-stack development using Java, Servlet, JSP, and JDBC.
+- Developed and deployed multiple full-stack web applications as part of the training.
 
-## Fun Fact
-- ⚡ I love solving puzzles and often spend my free time playing strategy games or reading about the latest tech trends.
+## 👨‍💻 Projects
+### **E-Commerce Platform**
+- **Technologies:** Spring Boot, Thymeleaf, MySQL, Bootstrap
+- **Description:** Developed a fully functional online shopping platform with secure user authentication, product management, and order processing.
 
-## Projects
-### HealthHub Web-Application
+### **HealthHub Web-Application**
 - **Technologies:** Java, Servlet+JSP, JDBC, Maven, MySQL
-- **Description:** Engineered a robust hospital management system for streamlined appointment management, patient records, and doctor information. Developed responsive interfaces using JSP and Bootstrap, ensuring optimal user experience on all devices. Implemented session management and encrypted password storage to ensure data security.
+- **Description:** Created a hospital management system that streamlined appointments, managed patient records, and handled doctor information securely.
 
-### PhoneBook Application
-- **Technologies:** Core Java, Jakarta Servlet, JSP, Bootstrap, JDBC, MySQL
-- **Description:** Developed a comprehensive PhoneBook application incorporating features for user management and contact operations such as adding, updating, and deleting contacts. Created a responsive user interface using JSP and Bootstrap, providing a seamless experience across different devices. Ensured data security with session management and password encryption.
+## 🛠️ Technical Skills
+- **Programming Languages:** Core Java, OOP, Collections, Exception Handling, Strings, Arrays
+- **Frameworks/Libraries:** Spring Boot, Hibernate+JPA, jOOQ, Servlet+JSP, Spring Security, Thymeleaf
+- **Web Technologies:** HTML, CSS, JavaScript, React (Basic)
+- **Databases:** MySQL, PostgreSQL
+- **DevOps/Cloud:** Docker, Azure Cloud, AWS, CI/CD Pipelines, Azure App Service
+- **Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman, Swagger
+- **Familiar With:** Redis, Microservices, MATLAB
 
-### TaskManager-Application
-- **Technologies:** Java, Jakarta Servlet, JSP, Bootstrap, JDBC, MySQL
-- **Description:** Developed a TaskManager application with functionalities to create, update, delete, and view tasks. Implemented a user-friendly interface with dynamic content rendering using JSP, enhancing the user experience. Designed and optimized database interactions using JDBC and the DAO pattern to ensure efficient and reliable data storage and retrieval.
+## 📫 How to Reach Me
+- **Email:** [vishnukrkamat@gmail.com](mailto:vishnukrkamat@gmail.com)
+- **LinkedIn:** [Vishnu Kumar Kamat](https://linkedin.com/in/vishnu-kumar-2235971a7)
+- **GitHub:** [@Vishnukrchy](https://github.com/Vishnukrchy)
+- **Portfolio:** [Portfolio](https://vishnukrchy.github.io/Portfolio/#home)
 
-## Education
-### Supaul College Of Engineering
-- **Degree:** B.Tech
-- **CGPA:** 8.14
-- **Year:** 2019-2023
-- **Location:** Supaul, Bihar
+## 😄 Pronouns
+- He/Him
 
-## Certifications
-- Soft Skills – NPTEL
-- AI For Everyone – Coursera
-- VMS design suit – CyberMotion
+## ⚡ Fun Fact
+- I enjoy solving puzzles and often spend my free time exploring new tech trends or playing strategy games.
 
-Feel free to reach out to me for any collaboration or queries. Let's build something amazing together!
+## 📊 GitHub Stats
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnukrchy&show_icons=true&theme=radical)
