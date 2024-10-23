@@ -12,15 +12,11 @@ I'm a dedicated Full-Stack Java Developer based in Noida, UP, with hands-on expe
 ## 💼 Work Experience
 ### **BlueBerry E-Services Private Limited**  
 **Software Engineer** • _(July 2024 - Present)_  
-- Developed and maintained backend functionality for the ShramIn Jobs platform.
-- Optimized complex queries using jOOQ, improving API performance.
-- Implemented verification functionalities (email and phone) and push notifications via Firebase.
-- Enhanced API response time by 70% through query optimization.
+- Worked with Java, Spring Boot, and jOOQ to build and maintain backend systems.
 
 ### **Qspider Noida**  
 **Java Full-Stack Trainee** • _(Oct 2023 - June 2024)_  
-- Gained practical knowledge in full-stack development using Java, Servlet, JSP, and JDBC.
-- Developed and deployed multiple full-stack web applications as part of the training.
+- Focused on gaining practical experience in full-stack development using Java technologies.
 
 ## 👨‍💻 Projects
 ### **E-Commerce Platform**
