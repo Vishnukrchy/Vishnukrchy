@@ -48,7 +48,7 @@ class WhoAmI {
 
     String[] ambitions() {
         return new String[] {
-            "Master React Native",
+            "Become a Full-Stack Developer",
             "Build Scalable Systems",
             "Contribute to Open Source"
         };
