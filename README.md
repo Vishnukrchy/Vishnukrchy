@@ -3,12 +3,10 @@
 <h1>Welcome to my corner of the Digital World...</h1> 
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Matrix Code' align='right' width='200'/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Vishnukrchy" alt="Vishnukrchy" />
-</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishnukrchy" alt="Vishnukrchy" /> </p> 
 
 <div style="text-align: right">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 </div>
 
 ## :computer: Technologies I Love
@@ -21,18 +19,18 @@
 
 ## 💻 Programming Languages
 <p>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 </p>
 
 ## 🛠️ Technologies I Use
 <p>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/docker.svg' width='40'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/aws.svg' width='40'/>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/docker.svg' width='40'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/aws.svg' width='40'/>
 </p>
 
 ## 👨‍💻 Who am I?
@@ -58,12 +56,10 @@ class WhoAmI {
         };
     }
 }
-## 🔨 Current Works
-- Working on backend development with Spring Boot and learning full-stack development.
-- Optimizing APIs and implementing CI/CD pipelines with GitHub Actions and Azure.
-
-## 📜 Other Stuff
-- :octocat: **[My Resume](#)**
-
-If you have any feedback or suggestions, feel free to open a pull request!  
+🔨 Current Works
+Working on backend development with Spring Boot and learning full-stack development.
+Optimizing APIs and implementing CI/CD pipelines with GitHub Actions and Azure.
+📜 Other Stuff
+:octocat: My Resume
+If you have any feedback or suggestions, feel free to open a pull request!
 And if you like my work, consider giving it a ⭐.
