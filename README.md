@@ -1,52 +1,47 @@
-# Hi there, I'm Vishnu Kumar Kamat 👋
+Hey, Vishnu here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1>Welcome to my corner of the Digital World...</h1> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt='Matrix Code' align='right'/>
 
-## About Me
-I'm a dedicated Full-Stack Java Developer based in Noida, UP, with hands-on experience in building scalable and secure web applications. I completed my B.Tech from Supaul College Of Engineering in 2023 with a CGPA of 8.14. I specialize in backend development with a strong grasp of technologies such as Spring Boot, jOOQ, and Hibernate, along with experience in front-end technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishnukrchy" alt="Vishnukrchy" /> </p> <div style="text-align: right">"Code is like humor. When you have to explain it, it’s bad." – Cory House</div>
+:computer: Technologies I Love
+Java and Spring Boot
+REST API Development
+Frontend with JSP and JQuery
+AWS and Docker
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnukrchy&layout=compact">
+Programming Languages
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 
-## 🚀 A Few Quick Facts
-- 🔭 I’m currently working on **Spring Boot, JSP, jOOQ, JQuery** technologies at **BlueBerry E-Services Private Limited**.
-- 🧐 I’m enhancing my knowledge of **Spring Boot REST API Development**, **React Native**, and **DevOps** with AWS.
-- 💬 Ping me about **Java**, **Spring Boot**, **React Native**, or **cloud technologies** like AWS.
-- 🌱 I’m always exploring new frameworks and technologies to stay up-to-date in the tech world.
+Technologies I Use
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/docker.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/aws.svg' width='40'/>
 
-## 💼 Work Experience
-### **BlueBerry E-Services Private Limited**  
-**Software Engineer** • _(July 2024 - Present)_  
-- Worked with Java, Spring Boot, and jOOQ to build and maintain backend systems.
+Who am I?
+java
+Copy code
+class WhoAmI {
+  String user = "Vishnu Kumar";
+  String currentWork = "Backend Development using Spring Boot";
+  String[] hobbies = {
+    "Exploring New Technologies",
+    "Reading Tech Blogs",
+    "Gaming"
+  };
 
-### **Qspider Noida**  
-**Java Full-Stack Trainee** • _(Oct 2023 - June 2024)_  
-- Focused on gaining practical experience in full-stack development using Java technologies.
+  String getCity() {
+    return "Noida, India";
+  }
 
-## 👨‍💻 Projects
-### **E-Commerce Platform**
-- **Technologies:** Spring Boot, Thymeleaf, MySQL, Bootstrap
-- **Description:** Developed a fully functional online shopping platform with secure user authentication, product management, and order processing.
+  String[] ambitions() {
+    return new String[] {
+      "Master React Native",
+      "Build Scalable Systems",
+      "Contribute to Open Source"
+    };
+  }
+}
+Current Works
+Working on backend development with Spring Boot and learning React Native.
+Optimizing APIs and implementing CI/CD pipelines with GitHub Actions and Azure.
+Other Stuff
+:octocat: My Resume
+If you have any feedback or suggestions, feel free to open a pull request! And if you like my work, consider giving it a ⭐.
 
-### **HealthHub Web-Application**
-- **Technologies:** Java, Servlet+JSP, JDBC, Maven, MySQL
-- **Description:** Created a hospital management system that streamlined appointments, managed patient records, and handled doctor information securely.
-
-## 🛠️ Technical Skills
-- **Programming Languages:** Core Java, OOP, Collections, Exception Handling, Strings, Arrays
-- **Frameworks/Libraries:** Spring Boot, Hibernate+JPA, jOOQ, Servlet+JSP, Spring Security, Thymeleaf
-- **Web Technologies:** HTML, CSS, JavaScript, React (Basic)
-- **Databases:** MySQL, PostgreSQL
-- **DevOps/Cloud:** Docker, Azure Cloud, AWS, CI/CD Pipelines, Azure App Service
-- **Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman, Swagger
-- **Familiar With:** Redis, Microservices, MATLAB
-
-## 📫 How to Reach Me
-- **Email:** [vishnukrkamat@gmail.com](mailto:vishnukrkamat@gmail.com)
-- **LinkedIn:** [Vishnu Kumar Kamat](https://linkedin.com/in/vishnu-kumar-2235971a7)
-- **GitHub:** [@Vishnukrchy](https://github.com/Vishnukrchy)
-- **Portfolio:** [Portfolio](https://vishnukrchy.github.io/Portfolio/#home)
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- I enjoy solving puzzles and often spend my free time exploring new tech trends or playing strategy games.
-
-## 📊 GitHub Stats
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnukrchy&show_icons=true&theme=radical)
