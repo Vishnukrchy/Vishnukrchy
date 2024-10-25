@@ -56,3 +56,11 @@ class WhoAmI {
         };
     }
 }
+```
+🔨 Current Works
+Working on backend development with Spring Boot and learning full-stack development.
+Optimizing APIs and implementing CI/CD pipelines with GitHub Actions and Azure.
+📜 Other Stuff
+:octocat: My Resume
+If you have any feedback or suggestions, feel free to open a pull request!
+And if you like my work, consider giving it a ⭐.
