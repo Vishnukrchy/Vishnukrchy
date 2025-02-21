@@ -1,3 +1,4 @@
+
 # Hey, Vishnu here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my corner of the Digital World...</h1> 
@@ -18,7 +19,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnukrchy&layout=compact" alt="Top Langs" />
 
 ## 💻 Programming Languages
-<p> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30' alt='Java'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30' alt='HTML'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30' alt='CSS'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30' alt='JavaScript'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30' alt='SQL'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg' width='30' alt='Python'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='30' alt='React'/> </p>
+<p>
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+</p>
+
 ## 🛠️ Technologies I Use
 <p>
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/docker.svg' width='40'/> 
